@@ -20,17 +20,17 @@ def find_majority_element(lst):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--input_file_loc", type=str, required=True,
-                        help="GPT4 output file")
     parser.add_argument("--output_file_loc", type=str, required=True,
+                        help="GPT4 output file")
+    parser.add_argument("--run_file_loc", type=str, required=True,
                         help="Run submission file location")
     args = parser.parse_args()
-    input_file_loc=args.input_file_loc
     output_file_loc=args.output_file_loc
+    run_file_loc=args.run_file_loc
     pattern1 = r"Error Flag: (\d+)"
     pattern2=r"Error Sentence ID: (-?\d+)"
     pattern3=r"Corrected Sentence: (.+)"
-    with open(input_file_loc, "r") as f:
+    with open(output_file_loc, "r") as f:
         results=json.load(f)
     prediction_results=[]
     for text_id in results:
@@ -66,7 +66,7 @@ if __name__ == "__main__":
                 "correct_sent":corrected_sent
                 }
         prediction_results.append(result)
-    with open(output_file_loc, "w") as f:
+    with open(run_file_loc, "w") as f:
         for elem in prediction_results:
             elem_list=[elem[k] for k in elem]
             line = ' '.join(map(str, elem_list))    
