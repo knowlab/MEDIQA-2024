@@ -1,4 +1,4 @@
-# MEDIQA-2024 KnowLab Submission Documentation
+# Documentation on ```KnowLab``` Submission for MEDIQA 2024 
 
 Welcome to the KnowLab submission repository for MEDIQA-2024. We share our approach for addressing the MEDIQA-CORR Shared Tasks (1, 2, and 3) leveraging the capabilities of GPT-4 combined with the Retrieval Augmented Generation (RAG) technique. Here's how we've structured our solution:
 
