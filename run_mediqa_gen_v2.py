@@ -32,10 +32,10 @@ if __name__ == "__main__":
     args = parser.parse_args()
     
     args = parser.parse_args()
-    rag =RetrievalAugmentedPrompt(args.train_loc, args.similarity_file_loc, args.reason_file_loc)
+    rag =RetrievalAugmentedPrompt(args.train_loc, args.similarity_file_loc, args.reason_file_loc) #call the Prompt Generation Class
     model_name=args.model_name
     api_key=args.api_key
-    chat_client=ChatClient(api_key_f=api_key, model=model_name)
+    chat_client=ChatClient(api_key_f=api_key, model=model_name) #Invoke chat client
     encoding = 'latin1'
     df=pd.read_csv(args.val_loc, encoding=encoding)
     answers={}
@@ -52,3 +52,4 @@ if __name__ == "__main__":
             answers[val_text_id][run]=response
             with open(output_file_loc, "w") as f:
                 json.dump(answers,f)
+        
