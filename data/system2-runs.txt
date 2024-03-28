@@ -1,0 +1,925 @@
+ms-test-0 1 10 Patient's symptoms are suspected to be due to leptospirosis.
+ms-test-1 1 11 Patient's symptoms are suspected to be due to leptospirosis.
+ms-test-2 1 9 Streptococcus pyogenes is the causative agent of the patient's condition.
+ms-test-3 1 8 Group A beta-hemolytic Streptococcus is suspected to be the causative agent due to the presence of painful right infraclavicular lymphadenopathy.
+ms-test-4 1 3 The causative agent is a yeast-like fungus, which may be Candida, commonly found in such skin infections.
+ms-test-5 1 4 A diagnosis of intertrigo secondary to Candida, a commensal yeast that is catalase-positive, was made.
+ms-test-6 1 9 Parainfluenza virus is the causal pathogen of the patient's condition.
+ms-test-7 0 -1 NA
+ms-test-8 1 5 Stool sample is taken for laboratory testing to confirm the suspected Norovirus.
+ms-test-9 1 5 She also says that the patient has not received any vaccinations after 6 months and currently does not attend a daycare center.
+ms-test-10 1 9 You obtain a sputum sample and identify an organism that grows selectively on medium containing factors V and X. Haemophilus influenzae infection is suspected.
+ms-test-11 0 -1 NA
+ms-test-12 1 0 NA
+ms-test-13 0 -1 NA
+ms-test-14 1 4 Herpes simplex virus type 2 is the causative agent.
+ms-test-15 1 12 A tick-borne disease, such as African tick bite fever, is suspected.
+ms-test-16 1 20 Dengue virus infection is suspected.
+ms-test-17 1 4 Mycobacterium tuberculosis is suspected.
+ms-test-18 0 -1 NA
+ms-test-19 0 -1 NA
+ms-test-20 1 10 NA
+ms-test-21 1 3 The child likely has DiGeorge syndrome.
+ms-test-22 0 -1 NA
+ms-test-23 1 5 Patient is diagnosed with seborrheic dermatitis.
+ms-test-24 0 -1 NA
+ms-test-25 1 16 The patient is diagnosed with chronic myeloid leukemia.
+ms-test-26 0 -1 NA
+ms-test-27 1 10 A neurological examination shows no loss of crude touch, tactile touch, or pain sensations on the right side of the face.
+ms-test-28 1 13 The patient is diagnosed with trigeminal neuralgia.
+ms-test-29 1 20 Diffuse cutaneous systemic scleroderma is suspected. 
+ms-test-30 1 11 Limited cutaneous systemic scleroderma (CREST syndrome) is suspected.
+ms-test-31 1 6 Patient is diagnosed with Myasthenia Gravis after physical exam is notable for 2/5 strength in the upper extremities and 4/5 strength in the lower extremities.
+ms-test-32 0 -1 NA
+ms-test-33 1 3 Patient is diagnosed with left-sided Brown-Sequard (hemisection).
+ms-test-34 0 -1 NA
+ms-test-35 1 8 He is lethargic, and is diagnosed with septic arthritis after his exam is noteworthy for erythema and edema in an area surrounding his distal shin.
+ms-test-36 0 -1 NA
+ms-test-37 1 7 The patient has an olecranon bursitis.
+ms-test-38 1 6 The patient is diagnosed with an olecranon bursitis after physical exam is notable for a mass seen in Figure A, which is rubbery and non-tender.
+ms-test-39 0 -1 NA
+ms-test-40 0 -1 NA
+ms-test-41 1 14 The patient is diagnosed with Bernard-Soulier syndrome.
+ms-test-42 1 11 The patient is diagnosed with von Willebrand disease after blood tests demonstrate increased bleeding time and normal platelet count.
+ms-test-43 1 7 The differential diagnosis includes pneumonia.
+ms-test-44 1 14 NA
+ms-test-45 1 4 The patient is diagnosed with polyarteritis nodosa.
+ms-test-46 1 2 The patient is diagnosed with polyarteritis nodosa after a biopsy of the sural nerve reveals transmural inflammation and fibrinoid necrosis of small and medium arteries, and the patient's history of Hepatitis B seropositivity is considered.
+ms-test-47 1 7 Patient is diagnosed with Progressive Multifocal Leukoencephalopathy (PML) after a T1/T2 MRI of the brain is ordered and is shown.
+ms-test-48 0 -1 NA
+ms-test-49 1 4 Patient is diagnosed with aplastic crisis.
+ms-test-50 1 1 Patient is diagnosed with aplastic crisis after a bone marrow biopsy indicated a hypocellular marrow.
+ms-test-51 1 6 Patient is diagnosed with syringomyelia after sensory examination reveals impaired pain and temperature sensation in a cape-like distribution across both shoulders, arms, and neck.
+ms-test-52 1 10 Patient is diagnosed with Congenital insensitivity to pain with anhidrosis (CIPA).
+ms-test-53 1 15 Patient is diagnosed with peptic ulcer disease.
+ms-test-54 0 -1 Patient is diagnosed with Zollinger-Ellison syndrome after upper gastrointestinal endoscopy reveals multiple duodenal ulcers.
+ms-test-55 1 0 A 31-year-old man with suspected schizoid personality disorder is brought in to the clinic by his sister because she is concerned about his behavior since the death of their mother 2 months ago.
+ms-test-56 0 -1 NA
+ms-test-57 0 -1 NA
+ms-test-58 0 -1 NA
+ms-test-59 1 10 Patient is diagnosed with chronic obstructive pulmonary disease after the lung volumes show a total lung capacity of 110% of predicted value, a residual volume of 115% of predicted value, and a DLCO of 60% of predicted value.
+ms-test-60 0 -1 NA
+ms-test-61 0 -1 NA
+ms-test-62 1 4 Small cell carcinoma of the lung is suspected after chest X-ray shows a 3 cm rounded opaque shadow and further confirmed with a CT scan and biopsy.
+ms-test-63 1 7 Patient is diagnosed with coarctation of the aorta after the chest X-ray reveals the notching of the ribs.
+ms-test-64 0 -1 NA 
+ms-test-65 1 8 Patient is diagnosed with a pleural effusion.
+ms-test-66 0 -1 NA
+ms-test-67 1 17 The patient is diagnosed with normal pressure hydrocephalus after she can recall 0/3 words after 5 minutes.
+ms-test-68 1 19 The patient is diagnosed with dementia.
+ms-test-69 1 5 Patient is diagnosed with primary syphilis.
+ms-test-70 1 3 The patient is diagnosed with primary syphilis when upon pelvic examination for cervical changes, the OB/GYN notices a painless genital chancre.
+ms-test-71 1 7 Angioedema is suspected after clinical lab results suggest a normal C1 esterase inhibitor level.
+ms-test-72 0 -1 NA
+ms-test-73 1 7 The patient is diagnosed with a malignant retroperitoneal tumor.
+ms-test-74 1 5 The patient undergoes a nephrostomy tube placement to relieve the hydronephrosis.
+ms-test-75 0 -1 NA
+ms-test-76 0 -1 NA
+ms-test-77 1 13 Patient is diagnosed with patellofemoral pain syndrome.
+ms-test-78 1 11 Patient is diagnosed with patellofemoral pain syndrome after physical exam, which shows that the pain is reproduced by applying direct pressure to the right patella, and there is increased patellar laxity with medial and lateral displacement.
+ms-test-79 1 2 Patient is diagnosed with adenomyosis after transvaginal sonogram reveals an enlarged, soft, and tender uterus, and uterine biopsy shows normal-appearing endometrial glands within the myometrium.
+ms-test-80 0 -1 NA
+ms-test-81 1 8 Autism Spectrum Disorder is suspected.
+ms-test-82 0 -1 NA
+ms-test-83 1 7 NA
+ms-test-84 0 -1 NA
+ms-test-85 0 -1 NA
+ms-test-86 1 16 The patient is diagnosed with lacunar stroke after a head CT scan is within normal limits.
+ms-test-87 1 18 The patient's differential diagnosis include renal cell carcinoma after abdominal CT scan confirms the presence of a large solid mass originating in the left kidney.
+ms-test-88 1 15 Urine is positive for blood.
+ms-test-89 1 9 Patient is diagnosed with Paget's disease of bone.
+ms-test-90 0 -1 NA
+ms-test-91 1 9 The patient's behavior suggests possible schizotypal personality disorder.
+ms-test-92 0 -1 NA
+ms-test-93 1 17 The patient has obstructive sleep apnea.
+ms-test-94 1 10 Polysomnography shows an apnea-hypopnea index of 30 episodes/h with a PCO2 of 51 mm Hg during REM sleep.
+ms-test-95 1 9 Differential diagnosis includes esophageal disease.
+ms-test-96 0 -1 Differential diagnosis includes esophagitis.
+ms-test-97 1 10 The patient is experiencing delirium tremens.
+ms-test-98 1 7 The patient is diagnosed with hospital-acquired delirium after exam.
+ms-test-99 1 8 Patient is diagnosed with traumatic pneumothorax after the patient is conscious and complains of severe left shoulder pain and shortness of breath.
+ms-test-100 1 10 Patient is suspected to have a diaphragmatic rupture and further investigations need to be done.
+ms-test-101 1 32 Acute pancreatitis is suspected.
+ms-test-102 1 10 NA
+ms-test-103 1 1 Patient is diagnosed with lactose intolerance. 
+ms-test-104 1 8 Patient is diagnosed with Diabetes insipidus given the symptoms of excessive urination and thirst.
+ms-test-105 1 20 Patient is diagnosed with Bartter's syndrome.
+ms-test-106 1 8 A sweat chloride test shows elevated levels.
+ms-test-107 1 9 Patient is diagnosed with Cystic Fibrosis after a complete blood count is significant for the following:
+ms-test-108 1 3 Celiac disease is suspected.
+ms-test-109 1 9 Dermatitis herpetiformis is suspected.
+ms-test-110 0 -1 NA
+ms-test-111 0 -1 NA
+ms-test-112 1 2 Patient is diagnosed with seborrheic keratoses.
+ms-test-113 1 7 Patient is diagnosed with urinary tract infection and possible social anxiety disorder after she reports that though this has never happened in the past it concerns her a great deal.
+ms-test-114 1 8 Patient is diagnosed with urinary tract infection and potential social anxiety disorder.
+ms-test-115 1 24 Patient is diagnosed with an amebic liver abscess.
+ms-test-116 1 23 Patient is diagnosed with an amoebic liver abscess after a CT scan of the abdomen shows a single cystic lesion in the right lobe of the liver. He was treated with metronidazole.
+ms-test-117 1 15 There is a decreased range of motion of the right hip.
+ms-test-118 1 13 There is mild tenderness on deep palpation of the right lumbar region but no erythema, edema, or warmth.
+ms-test-119 1 8 Patient is diagnosed with dermatomyositis.
+ms-test-120 1 7 NA
+ms-test-121 1 6 Patient is diagnosed with Trichomonas vaginalis after her pelvic exam, she has vulvovaginal erythema and a 'strawberry cervix' that is tender to motion, with minimal green-yellow malodorous discharge.
+ms-test-122 0 -1 NA
+ms-test-123 1 8 Diagnosis is intrauterine fetal demise.
+ms-test-124 0 -1 NA
+ms-test-125 1 5 NA
+ms-test-126 1 6 Further diagnostic tests, such as angiography, are needed to confirm the diagnosis of acute mesenteric ischemia.
+ms-test-127 0 -1 NA
+ms-test-128 0 -1 NA
+ms-test-129 1 8 Acute pericarditis is suspected after physical examination is significant for a friction rub heard best at the lower left sternal border.
+ms-test-130 1 9 Acute pericarditis is diagnosed.
+ms-test-131 1 13 Patient is diagnosed with Rett Syndrome.
+ms-test-132 0 -1 NA
+ms-test-133 1 17 Patient is diagnosed with Pancoast tumor after an X-ray of the chest reveals a soft tissue mass at the apex of the left lung with possible involvement of the first rib.
+ms-test-134 0 -1 NA
+ms-test-135 1 9 Differential diagnosis includes poststreptococcal glomerulonephritis.
+ms-test-136 1 8 Diagnosis is poststreptococcal glomerulonephritis.
+ms-test-137 1 15 The patient is diagnosed with thalamic pain syndrome after labs return.
+ms-test-138 0 -1 NA
+ms-test-139 1 5 The patient is diagnosed with lateral medullary syndrome.
+ms-test-140 1 4 The patient is diagnosed with right-sided stroke after cranial nerve examination shows a deviated tongue to the left.
+ms-test-141 1 4 Patient is diagnosed with hypertrophic cardiomyopathy after physical examination reveals a prominent A wave on the jugular venous pulse and a double apical impulse.
+ms-test-142 1 7 Patient is suggested to undergo echocardiography for further evaluation.
+ms-test-143 1 11 NA
+ms-test-144 0 -1 NA
+ms-test-145 1 7 Patient is diagnosed with an atrial septal defect when cardiac auscultation reveals clear lungs and a fixed split S2 heart sound.
+ms-test-146 0 -1 NA
+ms-test-147 0 -1 Patient is diagnosed with schizoaffective disorder.
+ms-test-148 0 -1 NA
+ms-test-149 1 12 Patient is diagnosed with schizoaffective disorder when during the exam, it is clear that he suffers from auditory hallucinations.
+ms-test-150 0 -1 NA
+ms-test-151 1 13 The patient is diagnosed with cavernous sinus thrombosis.
+ms-test-152 0 -1 The patient is suspected of cavernous sinus thrombosis after physical exam.
+ms-test-153 1 41 Patient is diagnosed with IgA nephropathy (Berger's disease) after immunofluorescence shows granular IgA immune complex deposits in the mesangium.
+ms-test-154 1 17 ASO titer 200
+ms-test-155 1 3 Patient is diagnosed with dermatitis herpetiformis.
+ms-test-156 1 2 Patient is diagnosed with dermatitis herpetiformis and she is appropriately prescribed dapsone, which relieves the rash within days.
+ms-test-157 1 3 Tetralogy of Fallot is suspected after the exam is completed.
+ms-test-158 0 -1 NA
+ms-test-159 1 8 Patient is diagnosed with a ventricular septal defect.
+ms-test-160 1 8 Patient is diagnosed with an atrioventricular septal defect.
+ms-test-161 1 4 NA
+ms-test-162 0 -1 NA
+ms-test-163 1 12 The patient is diagnosed with vascular dementia.
+ms-test-164 1 0 The patient is diagnosed with delirium, likely secondary to an underlying medical condition. Further diagnostic workup is required.
+ms-test-165 1 12 Patient is diagnosed with babesiosis after laboratory studies show the following:
+ms-test-166 0 -1 NA
+ms-test-167 1 5 Patient is diagnosed with Parinaud's syndrome.
+ms-test-168 1 3 Patient is diagnosed with a pineal tumor based on his symptoms of progressively worsening headaches, loss of balance, impaired upward gaze, and pupils that constrict poorly to light but react to accommodation.
+ms-test-169 1 7 Patient is diagnosed with spina bifida.
+ms-test-170 1 7 Patient is diagnosed with spina bifida.
+ms-test-171 1 22 Patient is diagnosed with neonatal sepsis.
+ms-test-172 1 1 He was born at 37 weeks to a 24-year-old G3P11011 Rh- mother who had no prenatal care and did not receive Rh immunoglobulin during pregnancy.
+ms-test-173 1 34 The patient is diagnosed with inflammatory bowel disease and is started on IV fluids and morphine.
+ms-test-174 1 35 The patient is diagnosed with inflammatory bowel disease.
+ms-test-175 1 14 She is empirically started on iron supplementation.
+ms-test-176 1 15 Five weeks later, patient is diagnosed with iron deficiency anemia after she shows no improvement in her hemoglobin level and hemoglobin electrophoresis is normal.
+ms-test-177 1 5 In addition to the skin lesion, the patient is diagnosed with squamous cell carcinoma after his physical examination is notable for stocking glove neuropathy of the hands and feet.
+ms-test-178 0 -1 NA
+ms-test-179 1 7 The patient's diagnosis is a rotator cuff tear.
+ms-test-180 1 4 On physical exam, the patient's shoulders are symmetric, and the right lateral shoulder is tender to palpation.
+ms-test-181 1 9 Congestive heart failure is suspected.
+ms-test-182 1 13 Acute decompensated heart failure is suspected and treatment with diuretics is initiated.
+ms-test-183 1 8 Patient is diagnosed with aortic regurgitation.
+ms-test-184 1 7 Patient is diagnosed with mixed valvular heart disease, most likely aortic regurgitation, aortic stenosis, and mitral stenosis given the examination findings.
+ms-test-185 1 4 Patient is diagnosed with conduct disorder when detailed history reveals that apart from such behavior, he is usually not angry or irritable.
+ms-test-186 1 6 Patient is diagnosed with oppositional defiant disorder.
+ms-test-187 0 -1 His skin exam is notable for the finding in Figure A. Further evaluation is needed to confirm a diagnosis.
+ms-test-188 1 8 Immunizations for his travel were discussed and administered as needed.
+ms-test-189 1 5 The patient's condition is most suspicious for Rett syndrome.
+ms-test-190 0 -1 NA
+ms-test-191 1 13 Patient is diagnosed with anorexia nervosa.
+ms-test-192 1 10 Patient is diagnosed with anorexia nervosa after admitting she has no appetite and exercises excessively.
+ms-test-193 1 6 Patient is diagnosed with seborrheic dermatitis after the skin on the scalp appears greasy, with yellow, scaly patches and evidence of inflammation.
+ms-test-194 0 -1 NA
+ms-test-195 1 9 Differential diagnosis includes Stevens-Johnson syndrome.
+ms-test-196 0 -1 NA
+ms-test-197 1 5 The patient is diagnosed with obsessive-compulsive disorder.
+ms-test-198 1 13 A suspected diagnosis of antiphospholipid syndrome is indicated.
+ms-test-199 1 32 Systemic lupus erythematosus and secondary antiphospholipid syndrome are diagnosed.
+ms-test-200 1 4 The patient has akathisia.
+ms-test-201 1 3 The patient is suspected to have akathisia after physical exam.
+ms-test-202 0 -1 NA
+ms-test-203 1 9 An abdominal ultrasound is performed and patient is diagnosed with acute gastritis.
+ms-test-204 1 6 Patient is diagnosed with post-traumatic stress disorder.
+ms-test-205 1 5 Patient is diagnosed with adjustment disorder with depressed mood after he says he is even more jumpy than he used to be, and he startles very easily.
+ms-test-206 1 13 The patient is diagnosed with primary Sjogren's syndrome after laboratory results are shown below.
+ms-test-207 0 -1 NA
+ms-test-208 1 8 The patient is diagnosed with Trichomoniasis.
+ms-test-209 0 -1 NA
+ms-test-210 0 -1 NA
+ms-test-211 1 11 The patient is diagnosed with bipolar I disorder.
+ms-test-212 1 22 Patient is diagnosed with coronary artery disease.
+ms-test-213 1 22 Patient is diagnosed with hyperlipidemia after laboratory studies show:
+ms-test-214 1 6 The patient's diagnosis is suspected to be von Willebrand disease after on physical examination, a large bruise is present over the right knee that is extending several inches down the leg.
+ms-test-215 1 8 NA
+ms-test-216 1 8 The patient is empirically started on Proton Pump Inhibitors and 3 units of packed red blood cells transfusion.
+ms-test-217 1 31 The patient is empirically started on 3 units of uncrossmatched O-negative blood transfusion and proton pump inhibitor.
+ms-test-218 1 7 The attending physician suspects that this might be a case of a carcinoid syndrome and orders a 24-hour urine test for 5-hydroxyindoleacetic acid.
+ms-test-219 1 8 MEN1 syndrome is suspected.
+ms-test-220 1 9 Contact dermatitis is suspected.
+ms-test-221 1 8 A hematoma due to possible coagulation disorder is suspected.
+ms-test-222 1 0 A 28-year-old woman with suspected borderline personality disorder presents following a suicide attempt 2 days ago.
+ms-test-223 1 7 NA
+ms-test-224 1 19 Patient is diagnosed with nephrogenic diabetes insipidus.
+ms-test-225 1 18 Patient is diagnosed with diabetes insipidus secondary to lithium use and fluid resuscitation is initiated.
+ms-test-226 1 6 Immediate supplemental oxygen and prostaglandin E1 infusion started.
+ms-test-227 1 6 Prostaglandin E1 is administered. 
+ms-test-228 1 9 The patient is diagnosed with persistent depressive disorder (dysthymia).
+ms-test-229 0 -1 NA
+ms-test-230 1 5 Patient is diagnosed with a vertebral osteomyelitis.
+ms-test-231 1 6 Patient is diagnosed with vertebral osteomyelitis.
+ms-test-232 1 6 DiGeorge syndrome is suspected.
+ms-test-233 1 3 DiGeorge syndrome diagnosis is considered.
+ms-test-234 1 2 Patient is diagnosed with X-linked agammaglobulinemia after lab investigations reveal an undetectable level of all serum immunoglobulins.
+ms-test-235 0 -1 NA
+ms-test-236 0 -1 NA
+ms-test-237 0 -1 NA
+ms-test-238 0 -1 NA
+ms-test-239 0 -1 NA
+ms-test-240 1 5 Patient is diagnosed with bullous pemphigoid.
+ms-test-241 0 -1 He attributes these to a new environment.
+ms-test-242 1 7 Patient is diagnosed with advanced sleep phase disorder.
+ms-test-243 0 -1 NA 
+ms-test-244 1 9 Acute Epstein-Barr virus infection is suspected.
+ms-test-245 0 -1 Infectious mononucleosis is suspected after, on physical examination, he has bilateral posterior cervical lymphadenopathy, exudates over the palatine tonsil walls with soft palate petechiae, an erythematous macular rash on the trunk and arms, and mild hepatosplenomegaly. Laboratory tests are ordered to confirm the diagnosis.
+ms-test-246 1 8 Patient is diagnosed with Hemophilia A after the complete blood count (CBC) results are as follows:
+ms-test-247 1 26 Further diagnostic tests such as factor VIII level are required to confirm the diagnosis of Hemophilia A.
+ms-test-248 1 20 Suspected of craniopharyngioma.
+ms-test-249 1 0 Pituitary adenoma is suspected after laboratory studies show:
+ms-test-250 1 7 Patient will be observed and reassessed during routine visits, as the bulge increases in size when the child cries and can be easily reduced inside the umbilical ring without apparent pain.
+ms-test-251 0 -1 NA
+ms-test-252 0 -1 NA
+ms-test-253 0 -1 NA
+ms-test-254 1 2 Pericardial window is performed after observing sinus tachycardia on the patient's telemetry, noting that the radial pulse cannot be palpated during inspiration.
+ms-test-255 1 3 NA
+ms-test-256 1 17 Emergent surgical decompression is advised.
+ms-test-257 1 3 He has a history of hypertension and type 2 diabetes mellitus, for which he takes lisinopril and metformin.
+ms-test-258 1 3 He has a history of hypertension and type 2 diabetes mellitus, for which he takes lisinopril and metformin.
+ms-test-259 1 0 NA
+ms-test-260 1 8 Escharotomy is performed after a delta pressure of 30 mmHg is obtained in the left leg.
+ms-test-261 0 -1 Fecal occult blood test is positive.
+ms-test-262 0 -1 She occasionally takes over-the-counter medicines to cope with the heartburn, and recently her hemoglobin was found to be 11 g/dL, for which she is advised to take iron and vitamin B12 supplementation.
+ms-test-263 1 10 Intravenous antihypertensive medication is administered, and then a head CT is performed.
+ms-test-264 0 -1 NA
+ms-test-265 1 11 Folate is not administered because her primary issue is suspected to be iron deficiency anemia, not folate deficiency. She continues on oral ferrous sulfate supplements.
+ms-test-266 1 10 She is started on oral Vitamin B12 and Folic acid supplements.
+ms-test-267 1 3 Even though you have been this patient's physician for 20 years, it's challenging to see him decline treatment, but you continue to provide care and support his decisions.
+ms-test-268 1 6 Further diagnostic testing is ordered following a complete blood count that shows mild anemia with a normal platelet count.
+ms-test-269 0 -1 NA
+ms-test-270 1 8 Ampicillin is given.
+ms-test-271 0 0 NA
+ms-test-272 1 4 His physician should have further investigated his past medical history before prescribing him a trial 1-month regimen of benzodiazepine therapy, due to the risk of abuse with this type of medication, and should consider alternative treatments for his anxiety.
+ms-test-273 1 4 She does not walk alone yet but stands in place and can say a few words.
+ms-test-274 1 14 MMR vaccination is not administered because it is usually given at 15 months.
+ms-test-275 1 6 An orchiectomy is recommended.
+ms-test-276 1 5 A radical orchiectomy is recommended after chest radiograph and abdominal CT scan do not show positive lymph nodes or distant metastases.
+ms-test-277 1 10 A thyroid-stimulating hormone (TSH) test is ordered.
+ms-test-278 1 13 Hepatitis B vaccination should be considered after checking the patient's immunity status.
+ms-test-279 1 11 Based on his history and physical examination, amoxicillin/clavulanate is given.
+ms-test-280 0 -1 NA
+ms-test-281 0 -1 NA
+ms-test-282 0 -1 NA
+ms-test-283 1 7 A renal biopsy is ordered.
+ms-test-284 1 6 Renal ultrasonography is ordered.
+ms-test-285 1 4 Intramuscular epinephrine is administered.
+ms-test-286 0 -1 NA
+ms-test-287 1 10 Dietary modification was recommended.
+ms-test-288 1 8 A trial of lactose-free diet was recommended.
+ms-test-289 1 7 Further evaluation is needed before initiating phototherapy.
+ms-test-290 1 18 Phototherapy is scheduled.
+ms-test-291 0 -1 NA
+ms-test-292 1 4 Treatment started regardless due to patient's lack of decision making capacity after he refuses treatment, stating that he will leave or he will hurt the hospital staff and other patients, hence an involuntary admission was initiated.
+ms-test-293 1 10 An X-ray is ordered after inspection of the patient's left knee reveals an erythematous knee that is tender and warm to the touch.
+ms-test-294 0 -1 NA
+ms-test-295 0 -1 NA
+ms-test-296 0 -1 NA
+ms-test-297 1 4 The physician should request a professional medical interpreter from the clinic.
+ms-test-298 1 6 Azithromycin is prescribed after laboratory values are notable for the findings below.
+ms-test-299 1 14 Macrolide like Azithromycin or Erythromycin is prescribed.
+ms-test-300 1 11 A lumbar puncture is suggested for further diagnosis.
+ms-test-301 1 10 VP shunt placement is performed after a brain MRI reveals dilated ventricles with a callosal angle of 60 degrees and mild cortical atrophy.
+ms-test-302 1 8 Dopaminergic therapy was recommended.
+ms-test-303 1 12 Patient is diagnosed with Restless Legs Syndrome and iron studies were recommended.
+ms-test-304 1 6 Endoscopic surveillance is performed.
+ms-test-305 0 -1 NA
+ms-test-306 1 9 Due to this, a colonoscopy is recommended at age 35.
+ms-test-307 1 11 A colonoscopy is recommended at age 40.
+ms-test-308 1 17 Pelvic floor muscle training or Kegel exercises are recommended.
+ms-test-309 0 -1 A pelvic examination is recommended after urinalysis reveals:
+ms-test-310 1 5 Starting clopidogrel.
+ms-test-311 1 8 Starting clopidogrel.
+ms-test-312 1 33 Hepatitis B serology and Tuberculosis screening are ordered.
+ms-test-313 1 11 Gamma glutamyl transferase test is ordered.
+ms-test-314 1 25 Medication to slow conduction through the AV node via increased potassium efflux is prescribed after the cardiac exam is notable for tachycardia.
+ms-test-315 1 26 Recommend medication to slow the heart rate, such as a beta-blocker or calcium channel blocker.
+ms-test-316 1 20 NA
+ms-test-317 1 19 Heparin is started, and transition to warfarin will be performed.
+ms-test-318 1 9 Lorazepam is prescribed after on physical examination, he appears diaphoretic, anxious, and has scleral icterus.
+ms-test-319 1 11 In addition to fluid resuscitation and vitamin repletion, chlordiazepoxide is prescribed.
+ms-test-320 1 5 Child Protective Services was contacted due to the mother's admission of striking the infant.
+ms-test-321 1 0 A 6-week-old child is brought to his pediatrician for a physical exam and hepatitis B vaccination.
+ms-test-322 1 9 The patient's hips are immobilized with a Pavlik harness after ultrasonography of the hip revealed a 50 angle between the lines along the bone acetabulum and the ilium.
+ms-test-323 1 9 Ultrasonography of the hip revealed a 50 degree angle between the lines along the bone acetabulum and the ilium.
+ms-test-324 1 14 Catheterization is prescribed.
+ms-test-325 1 13 Bladder catheterization is performed after an ultrasound examination showed an overdistended urinary bladder with no structural abnormalities and a post-void residual volume.
+ms-test-326 0 -1 NA
+ms-test-327 1 8 The patient's parents are instructed to continue to monitor, and a new follow-up appointment is arranged to reassess the ear condition.
+ms-test-328 1 11 The patient is started on labetalol for hypertension.
+ms-test-329 1 6 Medications for managing her hypertension were determined to be needed after examination.
+ms-test-330 1 4 NA
+ms-test-331 0 -1 NA
+ms-test-332 1 35 Lifestyle modifications are recommended, including diet and exercise to manage his overweight status and to prevent hypertension and diabetes.
+ms-test-333 1 13 NA
+ms-test-334 1 6 A chest radiograph is obtained as seen in Figure A. Oxygen is started after the cardiopulmonary exam reveals tachycardia and poor air movement bilaterally.
+ms-test-335 1 8 Both ipratropium and albuterol are given.
+ms-test-336 1 6 NA
+ms-test-337 1 5 Neurological exam was ordered after physical exam.
+ms-test-338 1 8 Lumbar puncture was performed after the physical exam was not remarkable and an initial head CT was within normal limits.
+ms-test-339 1 9 NA
+ms-test-340 1 10 Tocolytics such as nifedipine are contraindicated as the cervix is dilated to 5 cm, immediate delivery should be prepared.
+ms-test-341 1 9 Cesarean delivery is planned due to the patient's history of a prior cesarean delivery.
+ms-test-342 1 8 A prolactin level test is ordered after physical exam is notable for bilateral galactorrhea that can be expressed with palpation.
+ms-test-343 1 9 A prolactin level is obtained.
+ms-test-344 1 10 Post-mastectomy, trastuzumab will be started.
+ms-test-345 0 -1 Post-mastectomy, trastuzumab will be started.
+ms-test-346 1 7 An electrocardiogram (ECG) and a chest X-ray are performed, and based on the results, a computed tomography (CT) may be considered.
+ms-test-347 0 -1 NA
+ms-test-348 0 -1 NA
+ms-test-349 1 3 The attending tells the resident that despite the patient will do fine, it is necessary to report this minor complication that will not harm the patient, as it is important to maintain transparency and patient trust.
+ms-test-350 1 5 Emergency endoscopy is performed after a chest radiograph taken when the patient was standing erect shows free air under the diaphragm.
+ms-test-351 0 -1 NA
+ms-test-352 1 7 Hydrocortisone is administered to ensure normal functioning of her hypothalamic-pituitary-adrenal (HPA) axis.
+ms-test-353 1 6 Transsphenoidal surgery is planned after a T1/T2 MRI of the head shows evidence of a pituitary adenoma, and she is started on levothyroxine and corticosteroid replacement therapy.
+ms-test-354 1 6 Intravenous fluids, analgesia, and antiemetics are given and a repeat CT scan is done.
+ms-test-355 1 7 Gastrografin swallow is performed.
+ms-test-356 0 -1 NA
+ms-test-357 1 8 Amitriptyline is given after physical examination is unremarkable.
+ms-test-358 1 2 Smoking cessation is advised after patient's history of hemoptysis and hematuria.
+ms-test-359 1 3 Patient is given a combination of corticosteroids and cyclophosphamide.
+ms-test-360 1 14 She suffers from tardive dyskinesia due to her psychiatric medication, fluphenazine.
+ms-test-361 1 4 She suffers from a psychiatric disorder, specifically Tardive Dyskinesia.
+ms-test-362 1 10 The patient was given lorazepam and told to follow-up with psychiatry after an hour of supplemental oxygen, rest, and careful monitoring. His dyspnea improved and chest pain resolved without medication.
+ms-test-363 1 11 After an hour of rest and careful monitoring his dyspnea improves and chest pain resolves without medication. Supplemental oxygen is administered.
+ms-test-364 1 13 Antibiotics are administered and a percutaneous drainage is performed.
+ms-test-365 0 -1 NA
+ms-test-366 1 11 The physician discussed with the patient the need to inform his wife about the diagnosis, but the final decision to notify the health department and the patient's wife lies with the patient himself.
+ms-test-367 1 18 NA
+ms-test-368 0 -1 NA
+ms-test-369 1 17 An ultrasound of the hips is performed.
+ms-test-370 1 13 An ultrasound of the hips is scheduled because while in the supine position, the left leg is visibly shortened relative to the right.
+ms-test-371 1 13 Surgical management with suction curettage was initiated after a slight downward migration of the gestational sac is observed with no change in the fetal status.
+ms-test-372 1 14 Suction curettage is scheduled.
+ms-test-373 1 11 Intramuscular epinephrine was administered.
+ms-test-374 1 6 Intramuscular epinephrine was administered 1:1000, followed by intravenous steroids and antihistamines after she becomes dyspneic.
+ms-test-375 1 4 The patient is experiencing hypoglycemia so her nighttime insulin should be decreased.
+ms-test-376 1 0 She was diagnosed with iron deficiency anemia 3 months ago, for which she was prescribed ferrous sulfate three times daily.
+ms-test-377 1 25 Upper endoscopy is ordered.
+ms-test-378 1 10 The patient is treated and reassured that his confidentiality will be maintained as per the healthcare privacy laws.
+ms-test-379 1 4 The physician immediately refers the patient to a different health care professional to maintain professionalism and avoid any potential issues of transference.
+ms-test-380 1 5 The physician refers the patient to a different healthcare provider for future visits.
+ms-test-381 1 5 A complete workup for genetic renal disorders and kidney donor evaluation was done.
+ms-test-382 0 -1 NA
+ms-test-383 0 -1 NA
+ms-test-384 1 15 Intravenous immunoglobulin or plasmapheresis is prescribed.
+ms-test-385 1 12 Physical exam reveals a loss of vibratory sensation and altered proprioception in the bilateral feet. Gabapentin is prescribed after physical exam.
+ms-test-386 1 13 Immediate neurosurgical consultation is initiated and 1270 mL of urine is collected after placing a Foley catheter.
+ms-test-387 0 -1 NA
+ms-test-388 1 8 Antibiotic therapy is recommended.
+ms-test-389 0 -1 NA
+ms-test-390 1 6 Patient will repeat ECG immediately, not if symptoms recur, plan for observation in the meantime as a 12-lead ECG is obtained and the results are shown in the picture.
+ms-test-391 1 6 The physical examination reveals a decreased heart rate.
+ms-test-392 1 7 Anti-dsDNA antibody levels ordered.
+ms-test-393 0 -1 NA
+ms-test-394 1 4 We will continue to monitor the patient's development and ability to understand the consequences of sexual intercourse, while providing appropriate education and support. Decision for sterilization will be made considering the patient's best interests and ethical guidelines.
+ms-test-395 1 10 Ultrafiltration is decreased after laboratory studies after hemodialysis show a Hb of 10.5 mg/dL, a blood sugar of 189 mg/dL, and a hemoglobin A1C of 7.1%.
+ms-test-396 1 11 To reduce the likelihood of falls, the dialysis fluid volume should be adjusted.
+ms-test-397 0 -1 NA
+ms-test-398 1 9 Heparin and warfarin are started after she is admitted for DVT treatment and a full hypercoagulability workup.
+ms-test-399 1 1 The baby is found to have a ventricular septal defect that is causing a left to right shunt, resulting in cyanosis and pulmonary hypertension.
+ms-test-400 1 1 The baby is found to have a tetralogy of Fallot that is causing a right to left shunt, resulting in cyanosis and pulmonary hypertension.
+ms-test-401 1 4 A wrist splint and nonsteroidal anti-inflammatory drugs are given.
+ms-test-402 1 3 The patient's hand is splinted after on physical examination, pain and paresthesias are elicited when the physician percusses the patient's wrist as well as when the patient is asked to flex her wrist with her fingers fully extended.
+ms-test-403 1 14 It is advised to monitor the heart rate regularly because of physiological changes during pregnancy.
+ms-test-404 1 21 Urgent blood transfusion is not required as the patient's hemoglobin levels are within normal range.
+ms-test-405 1 24 CT scan of the head is ordered.
+ms-test-406 1 13 Lifestyle changes and antacid medication are recommended.
+ms-test-407 1 6 Antacid or proton pump inhibitor is recommended.
+ms-test-408 1 10 NA
+ms-test-409 0 -1 NA
+ms-test-410 1 6 Negative pressure wound therapy is performed.
+ms-test-411 1 5 Surgical debridement is performed after a wound culture and sensitivity test confirms the presence of an infection.
+ms-test-412 0 -1 A chest radiograph and ultrasound of the lower extremities are ordered after lung auscultation reveals no abnormalities and asymmetry in the lower extremities with discomfort to dorsiflexion of the larger leg is observed.
+ms-test-413 0 -1 NA
+ms-test-414 1 14 Intravenous methylprednisolone is prescribed.
+ms-test-415 0 -1 NA
+ms-test-416 1 5 Observation and reevaluation in a few months is scheduled.
+ms-test-417 0 -1 NA
+ms-test-418 1 11 Packed red blood cell transfusion is given.
+ms-test-419 1 10 Blood transfusion is given.
+ms-test-420 1 10 The patient is started on aspirin and given supplemental oxygen as needed.
+ms-test-421 1 11 Patient is given aspirin.
+ms-test-422 1 9 Upon physical examination, there is a skin lesion on the patient's right cheek, as shown in Figure A. The physician decided to further investigate the lesion before prescribing any treatment.
+ms-test-423 0 -1 NA
+ms-test-424 1 8 In addition to emergent intubation, warmed intravenous fluids are administered.
+ms-test-425 0 -1 NA
+ms-test-426 1 7 The patient was referred to a dermatologist for further evaluation.
+ms-test-427 1 5 The child's parent is reassured and is advised to return for follow up after physical exam, and the lesion was diagnosed as a capillary hemangioma.
+ms-test-428 1 7 A non-stress test is non-reactive, and a biophysical profile demonstrates abnormal fetal breathing, fetal activity, and fetal muscle tone.
+ms-test-429 1 0 NA
+ms-test-430 1 8 Patient is advised to follow-up in 6 months and repeat cytology by Pap smear and HPV testing.
+ms-test-431 1 7 Repeat cytology or HPV testing after 12 months is ordered after the high-risk HPV DNA test is positive.
+ms-test-432 0 -1 NA
+ms-test-433 0 -1 NA
+ms-test-434 1 3 Spironolactone is prescribed.
+ms-test-435 1 2 Spironolactone and high-sodium diet are prescribed after subsequent routine blood lab work showed a sodium level of 146 and potassium level of 3.0.
+ms-test-436 0 -1 NA
+ms-test-437 1 9 Treatment with oral trimethoprim-sulfamethoxazole and adjunctive corticosteroids is started.
+ms-test-438 1 7 Unfortunately, this patient is not a candidate for systemic hormone replacement therapy, but topical estrogen therapy for vaginal symptoms could be considered.
+ms-test-439 1 6 Non-hormonal therapies such as SSRIs, SNRIs, or gabapentin are prescribed as the patient is currently interested in therapies to help control her symptoms.
+ms-test-440 1 14 Donepezil is prescribed.
+ms-test-441 1 15 Assessment for further cognitive decline is recommended.
+ms-test-442 1 9 The patient was started on methotrexate.
+ms-test-443 0 -1 NA
+ms-test-444 0 -1 NA
+ms-test-445 1 10 The patient is taking ranitidine.
+ms-test-446 1 8 No other medication is prescribed.
+ms-test-447 0 -1 In addition to mometasone nasal spray, the patient is started immediately on prednisone and cyclophosphamide.
+ms-test-448 1 8 Piperacillin-tazobactam is started after a sample exudate is collected with a sterile swab and sent to the laboratory for culture, which yields the growth of aerobic gram-negative rods.
+ms-test-449 1 9 Piperacillin with tazobactam is started.
+ms-test-450 1 4 Amoxicillin-clavulanate is administered.
+ms-test-451 1 3 Tetanus prophylaxis and amoxicillin-clavulanate are administered.
+ms-test-452 1 6 She is subsequently given a medication called furosemide that will reduce her volume status by inhibiting the reabsorption of sodium and chloride in the nephron.
+ms-test-453 1 7 The patient is prescribed spironolactone.
+ms-test-454 1 7 Starting cognitive behavioral therapy and considering selective serotonin reuptake inhibitors (SSRIs) or benzodiazepines.
+ms-test-455 1 6 Propranolol is prescribed.
+ms-test-456 1 10 Patient is administered nitroglycerin and labetolol after laboratory testing is significant for elevated troponin.
+ms-test-457 1 11 Patient is given antihypertensive medication and intravenous nitroglycerin.
+ms-test-458 1 3 Loratadine was prescribed.
+ms-test-459 0 -1 NA
+ms-test-460 1 6 The patient will be referred to an ophthalmologist for further examination and based on the results, the Azathioprine dose may be adjusted.
+ms-test-461 1 7 She is referred to an ophthalmologist for further evaluation and treatment.
+ms-test-462 1 4 Valproic acid is potentially interacting with the patient's blood thinner.
+ms-test-463 0 -1 NA
+ms-test-464 0 -1 NA
+ms-test-465 1 15 Systemic antifungal therapy (eg, fluconazole) is prescribed.
+ms-test-466 1 7 Oral fluconazole is prescribed after evaluation of the blood and clinical examination reveals signs of oral candidiasis.
+ms-test-467 1 17 Ceftriaxone and dexamethasone are prescribed after her physician orders a complete blood count with differential and comprehensive metabolic panel.
+ms-test-468 1 33 Amoxicillin/clavulanate is prescribed.
+ms-test-469 1 12 IV benzodiazepine is administered.
+ms-test-470 0 -1 NA
+ms-test-471 1 4 The patient's alcoholism explains the patient's results.
+ms-test-472 1 9 The patient is given intravenous magnesium and metoprolol after the decision is made to also start medical therapy.
+ms-test-473 1 9 The patient is given intravenous adenosine.
+ms-test-474 1 3 Naloxone would have been appropriate to administer.
+ms-test-475 1 2 Naloxone should have been administered.
+ms-test-476 1 6 Bupropion is prescribed.
+ms-test-477 0 -1 NA
+ms-test-478 1 18 Starting prednisolone and angiotensin-converting enzyme inhibitors.
+ms-test-479 1 9 After the lab results, prednisolone was prescribed.
+ms-test-480 1 9 A dopamine agonist will be started.
+ms-test-481 1 10 A beta-blocker medication will be started.
+ms-test-482 1 6 Proton pump inhibitor is given in place of ibuprofen.
+ms-test-483 1 4 If infliximab is unavailable, etanercept can be started since it has a similar mechanism.
+ms-test-484 1 15 Colchicine and indomethacin were prescribed.
+ms-test-485 0 -1 An arthrocentesis procedure is not needed at this point.
+ms-test-486 1 11 Patient is given bisphosphonates.
+ms-test-487 0 -1 NA
+ms-test-488 1 8 She visited a community hospital and was prescribed a medication called propylthiouracil for this problem.
+ms-test-489 1 10 The mother was given methimazole.
+ms-test-490 0 -1 NA
+ms-test-491 1 9 Treatment with NSAIDs is recommended after bilateral radiographs of the hands demonstrate mild periarticular osteopenia around the left fifth metacarpophalangeal joint.
+ms-test-492 0 -1 NA
+ms-test-493 1 5 The patient is undergoing antiretroviral therapy, but the specific drugs need to be evaluated due to potential risks during pregnancy.
+ms-test-494 1 9 The physician says he may prescribe varenicline for the patient after a full cardiac workup is performed.
+ms-test-495 1 28 The patient was recommended to start statins in addition to appropriate medications for his cholesterol and a follow-up for his hypertension.
+ms-test-496 1 28 In addition to appropriate medications for his cholesterol and a follow-up for his hypertension, the patient was recommended to start lifestyle modifications including a healthy diet and regular exercise.
+ms-test-497 1 4 The patient's symptoms are due to a renal tubular defect, not protein binding with furosemide.
+ms-test-498 1 9 The patient is warned that sedation is a common side effect of this medication.
+ms-test-499 1 7 His physician advises the patient to begin the DASH diet and start antihypertensive medication as interventions to manage his blood pressure.
+ms-test-500 1 8 Patient is advised to start antihypertensive medication, reduce sodium intake, increase physical activity, and limit alcohol consumption.
+ms-test-501 1 13 Octreotide, 5-fluorouracil, and leucovorin are prescribed.
+ms-test-502 1 12 Octreotide, 5-fluorouracil, and streptozotocin are prescribed, and the patient is referred to anesthesia consultation for further risk assessment and management, given her history of severe complication from anesthesia as a child.
+ms-test-503 1 2 Patient is given azithromycin after a cold agglutination test conducted on her blood shows clumping together when placed at 4 degrees Celsius.
+ms-test-504 0 -1 NA
+ms-test-505 0 -1 NA
+ms-test-506 0 -1 NA
+ms-test-507 1 10 The patient is started on riluzole after tongue fasciculations are noted.
+ms-test-508 0 -1 NA
+ms-test-509 1 7 Administration of sodium benzoate, sodium phenylacetate, and arginine is recommended.
+ms-test-510 1 4 Sodium benzoate and sodium phenylbutyrate are administered after laboratories are obtained with the following results.
+ms-test-511 0 -1 NA
+ms-test-512 0 -1 NA
+ms-test-513 1 6 NA
+ms-test-514 1 5 Liver transplantation is considered when two days later, his creatinine has risen to 2.34 and he is oliguric.
+ms-test-515 1 10 Imatinib is prescribed after cytogenetic analysis is positive for the Ph1 gene. 
+ms-test-516 0 -1 NA
+ms-test-517 1 16 Methotrexate is given.
+ms-test-518 1 7 Methotrexate is recommended after laboratory findings are presented below:
+ms-test-519 1 12 Atropine and pralidoxime are administered.
+ms-test-520 1 13 Atropine is administered.
+ms-test-521 1 6 Further diagnostic tests were ordered to identify the cause of her symptoms.
+ms-test-522 1 5 Further diagnostic tests are ordered.
+ms-test-523 1 4 Patient is given quinine sulfate plus clindamycin after a peripheral blood smear confirms the diagnosis of P. falciparum infection.
+ms-test-524 0 -1 NA
+ms-test-525 1 27 The patient is weaned off norepinephrine.
+ms-test-526 1 7 Patient is given intravenous fluids and oxygen after an EKG is done and the results are shown in Figure A.
+ms-test-527 1 8 The patient is given physostigmine.
+ms-test-528 1 37 RBCs positive
+ms-test-529 1 37 RBCs positive
+ms-test-530 0 -1 NA
+ms-test-531 1 17 In addition to drugs for symptomatic relief, the patient is given doxycycline.
+ms-test-532 0 -1 Starting treatment with rituximab and a Bruton's tyrosine kinase inhibitor.
+ms-test-533 0 -1 NA
+ms-test-534 1 9 Stool cultures and colonoscopy were recommended.
+ms-test-535 1 10 Scheduling colonoscopy for further investigation.
+ms-test-536 1 9 Propranolol is prescribed. 
+ms-test-537 0 -1 NA
+ms-test-538 1 6 Topical sunscreen and a topical corticosteroid are prescribed after the patient's rash is shown in the exhibit.
+ms-test-539 1 7 Sunscreen and protective clothing are advised.
+ms-test-540 1 7 The wound is cleaned and the patient is administered with rabies post-exposure prophylaxis and tetanus immunization, in addition to Clindamycin for bacterial infection.
+ms-test-541 1 6 Rabies vaccine and immune globulin are administered, and Amoxicillin-clavulanate is prescribed for the localized cellulitis.
+ms-test-542 1 5 Topical or oral corticosteroids are prescribed after the physical exam.
+ms-test-543 0 -1 Oral Doxycycline is prescribed.
+ms-test-544 1 5 The wound is cultured and empiric antibiotic therapy with vancomycin is initiated.
+ms-test-545 1 18 Radiography is performed as seen in Figure A. Metformin is administered.
+ms-test-546 1 3 Review of systems is notable for increased urination and thirst.
+ms-test-547 1 7 The patient was prescribed cognitive behavioral therapy after he explains that he now seeks help to control these feelings of depersonalization.
+ms-test-548 1 8 The patient was recommended cognitive behavioral therapy and prescribed selective serotonin reuptake inhibitors (SSRIs).
+ms-test-549 1 7 Long term antipsychotic therapy is recommended.
+ms-test-550 1 6 Antipsychotic medication is recommended.
+ms-test-551 1 3 Phenoxybenzamine is prescribed as his temperature is 99.3 F (37.4 C), blood pressure is 165/118 mmHg, pulse is 126/min, respirations are 18/min, and oxygen saturation is 90% on room air.
+ms-test-552 1 6 NA
+ms-test-553 1 10 Sodium bicarbonate is administered.
+ms-test-554 0 -1 NA
+ms-test-555 1 9 In addition to oral rehydration, loperamide is prescribed after stool examination reveals no ova.
+ms-test-556 1 12 In addition to oral rehydration, azithromycin is prescribed.
+ms-test-557 1 9 Treatment with olanzapine is not appropriate for this patient.
+ms-test-558 1 10 Tetracycline or macrolide antibiotics were prescribed after a PPD skin test is negative.
+ms-test-559 1 11 Patient is diagnosed with Chlamydophila psittaci infection and is prescribed appropriate antibiotics along with advice to avoid exposure to birds.
+ms-test-560 1 10 His echocardiography shows a fluid collection in the pericardial sac with evidence of right ventricular compression.
+ms-test-561 1 10 Patient is kept for observation and pericardiocentesis is planned after his echocardiography shows a fluid collection in the pericardial sac with no evidence of right ventricular compression.
+ms-test-562 1 8 Lithium is prescribed.
+ms-test-563 0 -1 NA
+ms-test-564 0 -1 NA
+ms-test-565 1 8 Dermatological examination is scheduled after physical examination is notable for mild conjunctival injection bilaterally and a nodule located inferior to the left nasal ala, as shown in Figure A.
+ms-test-566 1 6 A CT scan is performed demonstrating inflamed outpouchings of the colonic mucosa with a 4-cm abscess, after which laparoscopy and drainage is performed.
+ms-test-567 0 -1 NA
+ms-test-568 1 7 IV fluid resuscitation by administering isotonic crystalloid solutions was started.
+ms-test-569 1 3 IV fluid resuscitation with normal saline or Ringer's lactate has been started, along with monitoring of vitals and urine output.
+ms-test-570 1 8 Peroral metronidazole is prescribed after the gynecologic examination shows increased production of a white-yellow vaginal discharge.
+ms-test-571 1 10 Wet mount microscopy shows the presence of clue cells.
+ms-test-572 1 16 Plasma exchange treatment is initiated.
+ms-test-573 1 13 Plasma exchange is considered.
+ms-test-574 1 12 Ciprofloxacin is administered after a urinalysis demonstrates leukocytes.
+ms-test-575 1 13 A urine culture was ordered and the patient was advised to continue with analgesics and regular activity.
+ms-test-576 1 11 Further diagnostic tests are required to confirm the diagnosis before any medication is prescribed.
+ms-test-577 1 10 Further tests and investigations, including a 12-lead ECG, are planned before starting any medication.
+ms-test-578 1 13 NA
+ms-test-579 1 29 Acyclovir is prescribed.
+ms-test-580 1 6 Findings from a stool sample with trichrome stain are shown in Figure A. Metronidazole is prescribed.
+ms-test-581 0 -1 Metronidazole is prescribed after findings from a stool sample with trichrome stain are shown in Figure A.
+ms-test-582 1 16 Intravenous fluid management and discontinuation of diuretics is initiated.
+ms-test-583 1 17 Management of hepatorenal syndrome is discussed.
+ms-test-584 1 7 Patient is recommended exercise, smoking cessation, and started on antiplatelet therapy (like aspirin or clopidogrel), statin therapy, and cilostazol.
+ms-test-585 1 5 Upon examination, the patient's lower legs (below knee) have glossy skin with loss of hair. The patient is recommended to quit smoking and improve his lifestyle.
+ms-test-586 1 6 Proton pump inhibitors are given shortly after he begins to vomit copious amounts of blood.
+ms-test-587 1 4 The patient should have not been started on IV tissue-plasminogen activator (tPA) due to his history of peptic ulcer disease.
+ms-test-588 0 -1 Patient is prescribed an oral antibiotic for a possible urinary tract infection.
+ms-test-589 1 8 Prednisone is prescribed after laboratory tests are significant for a positive antinuclear antibody (ANA) and elevated creatinine phosphokinase.
+ms-test-590 1 9 High dose corticosteroids and immunosuppressants are prescribed.
+ms-test-591 1 13 NA
+ms-test-592 1 12 Factor VIII replacement therapy is given and a hematology workup is completed and the appropriate treatment was administered.
+ms-test-593 0 -1 NA
+ms-test-594 0 -1 NA
+ms-test-595 1 6 Clofazimine, dapsone, and rifampin are prescribed.
+ms-test-596 1 5 Dapsone, rifampin, and clofazimine are prescribed after a physical examination demonstrates patches throughout the skin (Figure A), paresthesia of the distal hands bilaterally, and skin swelling on the left earlobe.
+uw-test-0 0 -1 NA
+uw-test-1 1 0 NA
+uw-test-2 0 -1 NA
+uw-test-3 1 3 On <DATE/> it is noted pt has iron deficiency anemia.
+uw-test-4 1 2 Transfuse 2 U PRBC for patient's comfort slowly (over 4 hours per unit).
+uw-test-5 0 -1 NA
+uw-test-6 1 8 <DATE/> - CXR with increased diffuse lung dz, edema vs pneumonia vs diffuse alveolar damage - Given IV lasix 20mg with good UOP and subjective improvement in SOB - Given response to IVF and diuresis (and hx of orthopnea), will get TTE - On 6L O2.
+uw-test-7 0 -1 NA
+uw-test-8 0 -1 NA
+uw-test-9 1 8 Conduct frequent neuromonitoring for signs of Hepatic Encephalopathy.
+uw-test-10 0 -1 NA
+uw-test-11 1 3 Mental status much improved and Fever and WBC coming down on hospital day #2 following IV antibiotics and IVF; an 8 day course of Antibiotics at home will be completed.
+uw-test-12 1 3 NA
+uw-test-13 0 -1 NA
+uw-test-14 0 -1 NA
+uw-test-15 1 3 Pt is treated with 20 mEq KCl Infusion.
+uw-test-16 0 -1 NA
+uw-test-17 0 -1 NA
+uw-test-18 1 0 NA
+uw-test-19 0 -1 NA
+uw-test-20 0 -1 NA
+uw-test-21 0 -1 NA
+uw-test-22 1 13 Appreciate ENT consult - treatment for recurrent sinusitis with amoxicillin-clavulanate 875 mg BID x 3 weeks.
+uw-test-23 0 -1 NA
+uw-test-24 1 3 Patient is receiving Zofran scheduled + prn Ativan, Loperamide, TPN and PCA Codeine.
+uw-test-25 1 2 Management has included Dobutamine administration, Dopamine and IABP implanted <DATE/>.
+uw-test-26 0 -1 NA
+uw-test-27 0 -1 NA
+uw-test-28 1 3 Hepatic Dysfunction - eGFR and urine albumin test, INR - Vit K 10mg PO x 3d to assess for improvement in INR, but not to be used as a treatment for alcohol-related coagulopathy.
+uw-test-29 1 10 Other treatments include: Patient on pressure reducing surface, Zinc oxide moisture barrier, Assist patient to obtain adequate nutrition.
+uw-test-30 0 -1 NA
+uw-test-31 1 2 Patient was also being managed for urothelial carcinoma of bladder and urethral margin with metastasis to left ovary and pelvic lymph nodes, as indicated in the pathology report.
+uw-test-32 1 8 Mr <NAME/> presented and was managed on this hospital admission for NSTEMI and severe 2 vessel CAD.
+uw-test-33 0 -1 NA
+uw-test-34 1 3 Thoracic surgery progress note <DATE/> Cr downtrending, currently 1.8 from baseline of 1.2-1.4 and peak of 4.5 on admit.
+uw-test-35 1 1 Patient is a <AGE/> y/o Vietnamese speaking woman with AML who is admitted for treatment of a line associated infection.
+uw-test-36 1 4 Pt presents with K of 3.5 and Mg of 1.5; pt received KCl treatment IV 20mEq x 1 and 16 mEq MgSO4 x 1.
+uw-test-37 1 4 FEN: giving 1L NS over 4 hrs followed by D5 1/2 NS + 20mEq KCl therapy at 100ml/hr, 20 mEq IV KCl therapy, Qday BMP.
+uw-test-38 0 -1 NA
+uw-test-39 1 1 <DATE/> <TIME/> ICU documentation notes post-operative pulmonary insufficiency with plan to optimize respiratory function.
+uw-test-40 0 -1 NA
+uw-test-41 1 6 The patient has had a nutrition consult and is receiving tube feedings. 
+uw-test-42 0 -1 NA
+uw-test-43 1 2 Pt is noted on admission to have PT/INR of 22.4/2.1 and pt is treated with 8 units FFP and vitamin K.
+uw-test-44 1 3 <DATE/> PN: Chemo induced nausea not well controlled with ondansetron, compazine, benadryl, scopolamine.
+uw-test-45 0 -1 NA
+uw-test-46 1 1 The patient is a <AGE/> yo F with history of ESRD who presented with subacute severe neck pain and hyperkalemia due to poor tolerance of PD.
+uw-test-47 1 2 She was transfused 2 units of packed red blood cells intraoperatively and her Hct continues to be monitored.
+uw-test-48 0 -1 NA
+uw-test-49 0 -1 NA
+uw-test-50 0 -1 Ms. <NAME/> is being managed for bronchiectasis.
+uw-test-51 0 -1 <DATE/> Heme/onc assessment and plan Nutrition: -- continue megace 400 mg BID for appetite stimulation -- check nutrition labs qweek and supplement PRN --added chewable MVI per nutrition recs -- Initiate high-protein, high-calorie diet and consider starting parenteral nutrition. This patient is also being managed for: Severe protein calorie malnutrition
+uw-test-52 0 -1 NA
+uw-test-53 0 -1 NA
+uw-test-54 1 0 NA
+uw-test-55 0 -1 NA
+uw-test-56 1 0 This patient was also being managed for acute blood loss anemia.
+uw-test-57 1 8 The anemia mentioned from NS Note is specified as ACUTE BLOOD LOSS ANEMIA related to the surgical procedure.
+uw-test-58 0 -1 NA
+uw-test-59 1 8 Plan for 2 week course of Vancomycin/Zosyn.
+uw-test-60 1 1 On <DATE/> Serum potassium was 2.8 and patient was given IV and PO potassium replacement.
+uw-test-61 1 6 <DATE/> CT scan showed several new findings:  -recurrent acute pancreatitis with possible panc duct obstruction; she has been made NPO, started on IVFs and codeine PCA for this, -new portal vein thrombosis: have started heparin gtt and discontinued her estrogen patch, -new abdominal fluid collections, concerning for abscess vs. pseudocyst...given that last fluid collection grew e.coli, we have opted to start cipro/flagyl for empiric gi tract flora after obtaining blood cultures, Note also that fluid from original drain placement growing yeast, and per discussion with ID we have elected to treat this with fluconazole. Will hold off on codeine PCA due to AMS.
+uw-test-62 1 3 Pt was placed on bed alarm for safety and re-oriented frequently; pt was started on IV abx and given IVF to maintain euvolemia and narcotics and other deliriogenic meds were held off.
+uw-test-63 1 3 On admission to <LOCATION/>, her labs are notable for K=3.0, which is low.
+uw-test-64 1 3 On admission, his WBC=0, HCT=24 and PLT=32.
+uw-test-65 0 -1 NA
+uw-test-66 1 0 Patient is a <AGE/> male with T cell lymphoma (gamma delta) admitted for neutropenic fever.
+uw-test-67 1 0 <DATE/> TTE notes severely decreased LV systolic function with EF 20% and global LV hypokinesis with superimposed regional wall motion abnormalities on IABP support.
+uw-test-68 1 9 Patient is also being managed for atrial fibrillation with rapid ventricular rate and has been tested for H3N2 influenza A.
+uw-test-69 1 3 NA
+uw-test-70 0 -1 Pt is eating fair here in house; needs protein supplement.
+uw-test-71 1 5 Interstitial Pulmonary abnormality - Does not appear to be improving with levofloxacin thus far.
+uw-test-72 1 3 He has been receiving nocturnal T-tube feeds plus regular diet.
+uw-test-73 1 7 Other treatments include: lactulose and frequent turning.
+uw-test-74 0 -1 NA
+uw-test-75 1 3 She has been treated with PO KCl and a K+ level is being drawn daily.
+uw-test-76 0 -1 NA
+uw-test-77 0 -1 NA
+uw-test-78 0 -1 NA
+uw-test-79 0 -1 NA
+uw-test-80 0 -1 NA
+uw-test-81 0 -1 NA
+uw-test-82 0 -1 NA
+uw-test-83 0 0 Patient is also being managed for postoperative anemia due to acute blood loss.
+uw-test-84 1 4 Pt is started on broad spectrum antibiotics, monitoring closely for signs/symptoms of worsening hypoxemia and/or tiring out, and would have a low threshold to transfer to ICU and/or intubate.
+uw-test-85 1 5 This was treated with oral potassium replacement, and IV fluids were started at 100/hr.
+uw-test-86 0 -1 NA
+uw-test-87 1 2 CHF: Acute on chronic systolic heart failure - his EF is 20%, Plan - continue diuresis, with goal of 1.0 to 1.5 liters negative with careful evaluation of K and Mg. Will also continue plavix and asa. ACE inhibitors and beta blockers should be avoided in acute decompensated heart failure.
+uw-test-88 1 5 NA
+uw-test-89 0 -1 NA
+uw-test-90 0 -1 NA
+uw-test-91 1 3 Plt threshold 20K (due to subdural hematoma), Hct threshold 28%; pt has been transfused with PLTs and Cryoprecipitate Infusion as indicated.
+uw-test-92 0 -1 NA
+uw-test-93 1 4 She was profoundly encephalopathic, but after aggressive administration of lactulose her mental status improved - Hepatic decompensation treated with vitamin K 10 mg IV daily x 3
+uw-test-94 1 5 NA
+uw-test-95 0 -1 NA
+uw-test-96 0 -1 Treatments include: IV KCl, multivitamin supplementation daily.
+uw-test-97 1 4 The patient was pancultured and given Tylenol for fever.
+uw-test-98 0 -1 NA
+uw-test-99 1 2 PT/INR on admit 19.3/1.8; pt is s/p lactulose 10mg PO x 3 days.
+uw-test-100 1 4 Treatments include: supplemental O2, Duonebs prn, Spiriva inhaler QDay.
+uw-test-101 1 0 Mr. <NAME/> is also being managed for protein calorie malnutrition, present on admission.
+uw-test-102 1 1 and states plan to continue lactulose to prevent hepatic encephalopathy.
+uw-test-103 1 2 Pt presents with K down to 3.0.
+uw-test-104 0 -1 Patient received oral KCL 80 mEq.
+uw-test-105 0 -1 NA
+uw-test-106 1 2 Treatment includes CXR and currently on 100% O2 NRB, and patient is recommended for intubation due to acute respiratory failure.
+uw-test-107 0 -1 NA
+uw-test-108 1 4 <DATE/> Uro - After his acute symptoms of sepsis have resolved, recommend changing percutaneous closed-wound drain in Interventional Radiology.
+uw-test-109 1 4 The <DATE/> Hem/Onc note documented: new HFpEF TTE done in setting of NSTEMI and  per cardiology recommendations - now w/ EF of 40%.
+uw-test-110 1 4 Pt is treated with IV insulin, insulin drip, IVF now on insulin sliding scale and glargine.
+uw-test-111 1 0 Initiate enteral nutrition due to prolonged inadequate oral intake.
+uw-test-112 0 -1 NA
+uw-test-113 0 -1 NA
+uw-test-114 1 1 History significant for dilated CM with systolic heart failure on metoprolol 20mg daily at home; MSSA bacteremia with MSSA driveline infection (on chronic keflex) asthma chronic PNAs since birth past methamphetamine use (inhaled) left leg neuropathy and foot drop dysphagia with vocal cord paralysis stage III left heel pressure ulcer ichthyosis (genetic dry skin condition.
+uw-test-115 0 -1 Suspect that Ms. <NAME/> has a compression fracture.
+uw-test-116 0 -1 NA
+uw-test-117 1 25 Recommendations: - Continue immuno diet - Encourage goal of three meals per day - trial drinking soy milk or Odwalla between meals - Assist with meal ordering/setup prn - start daily MVI.
+uw-test-118 1 4 Restart home spironolactone 50 mg PO BID, re-dose with albumin 12.5 g IV q12h.
+uw-test-119 0 -1 NA
+uw-test-120 0 -1 NA
+uw-test-121 0 -1 NA
+uw-test-122 0 -1 She is being treated for intra-abdominal infection with metronidazole and ciprofloxacin.
+uw-test-123 1 4 She is also receiving several antiemetic and prokinetic medications to help with GI motility and nausea and her nutrition labs are being monitored.
+uw-test-124 1 2 He received 500 cc of crystalloid in PACU and fluid boluses in ICU for hypotension with downtrending Hct to 23.
+uw-test-125 0 -1 Ms. <NAME/> has been noted to have documentation of thrombocytopenia on <DATE/> in the Medicine progress note.
+uw-test-126 1 3 He has been treated with 2L NS and is maintained on IVF of D5W. 
+uw-test-127 1 19 Patient's septicemia could certainly be a cause of her altered mental status, which has improved with antibiotics.
+uw-test-128 1 2 This was repeated multiple times until K+ returned to normal range.
+uw-test-129 1 2 Pt treated with potassium replacement therapy.
+uw-test-130 0 -1 NA
+uw-test-131 1 2 <DATE/> <LOCATION/> Outpt - Status post wedge resection of a metastatic lingular lesion in <DATE/>. 
+uw-test-132 0 -1 NA
+uw-test-133 1 6 Turning patient every 2 hours.
+uw-test-134 1 2 Patient is a <AGE/> YO F with multiple medical complications following an emergency C-section for Pre-eclampsia in <DATE/>, now with ongoing gut wall edema and gastroparesis, and a new diagnosis of lupus.
+uw-test-135 1 2 On <DATE/>, admit note documents Part of the reason for having her seen at <LOCATION/> was concern that her coagulopathy and worsening portal hypertension have led to worsening of her chronic bleeding and that she may benefit from transplant. Pt is currently undergoing transplant workup.
+uw-test-136 1 13 Respiratory therapy consult for home O2 requested and he has Oxygen for home.
+uw-test-137 1 3 Management has included IABP, diuretics, and beta-blockers.
+uw-test-138 0 -1 NA
+uw-test-139 1 4 He was being treated with Dexamethasone prior to admission and is continuing this s/p his biopsy.
+uw-test-140 1 3 Management has included long-term oxygen therapy, pulmonary rehabilitation, and pharmacologic therapy.
+uw-test-141 1 6 Other treatments include: HOB elevated to 30 degrees, use of dry flow pads, assisting patient to obtain adequate nutrition.
+uw-test-142 1 4 A right chest tube was placed and repositioned and high flow oxygen was given.
+uw-test-143 0 -1 NA
+uw-test-144 0 -1 Management includes continuation of his home cardiac medications and treatment for his LVAD driveline infection.
+uw-test-145 0 -1 NA
+uw-test-146 1 0 Ms. <NAME/> is being managed for Autoimmune Hepatitis (AIH) likely due to viral process, present on admit (POA).
+uw-test-147 1 6 This was managed with: 2L NS IV bolus given in ED plus an additional 1L IVF, and daily BMP monitoring.
+uw-test-148 1 4 The serosal injury was incidental to the surgery and inherent to the patient's condition, not a complication of the surgery/care.
+uw-test-149 1 6 NA
+uw-test-150 1 4 Pt is also treated with packed red blood cells (PRBCs), FFP, serial HCT monitoring, vitamin K, protonix and transfer to ICU.
+uw-test-151 1 2 Heme/oncology admit notes Transfusion thresholds Hct<26 Plt <10 and Treatment(s) ordered: Embolic stockings d/t thrombocytopenia. RN progress notes on <DATE/> 1 unit RBCs ordered for Hct: 24%. Plts ordered for plts: 13K. His CBC is monitored daily.
+uw-test-152 0 -1 NA
+uw-test-153 1 3 The concern for intraoperative esophageal injury has been ruled out (barium test confirmed the repair of the esophageal injury was successful).
+uw-test-154 1 5 The pt. received one liter NS in the ED, blood/urine cultures were done, and vancomycin started, in addition to continued outpatient meds of cefepime, voriconazole, acyclovir and Bactrim.
+uw-test-155 1 4 Treatments include: Will gently hydrate given elevation in creatinine, trying to balance this against peripheral edema (0.45% NS @ 75 ml/hr), if creatinine does not come down with fluids, may need to discuss with Renal the possibility of dialyzing after multitude of contrasted studies, Qday BMP.
+uw-test-156 0 -1 NA
+uw-test-157 1 4 Mr. <NAME/> is also being managed for Anorexia Nervosa.
+uw-test-158 1 2 Mr. <NAME/> was also managed for hyperkalemia.
+uw-test-159 0 -1 NA
+uw-test-160 1 6 Treatments include: IV KCl infusion, BID M7.
+uw-test-161 1 5 Plan per <DATE/> ICU note: ASA 81mg daily, start low dose metoprolol , start torsemide 80mg x1 now and assess response -- goal net negative 1-2Ls.
+uw-test-162 1 3 Pts HCT on admission was 28, intra-operatively was 24 and most recently was 22.
+uw-test-163 0 -1 NA 
+uw-test-164 1 4 She takes lactulose and was given Furosemide x 2 doses.
+uw-test-165 1 3 Continue PO KCl Therapy replacement.
+uw-test-166 0 -1 NA
+uw-test-167 0 -1 NA
+uw-test-168 1 0 Diagnosis Clarification: The diagnosis of an ARF may be completely described as an acute renal failure, as evidenced by an admit serum BUN./Cr 24/1.34 (<DATE/>) decreasing after fluid resuscitation to a current BUN/Cr 23/1.30 (<DATE/>). The admit note stating ARF: patient's BUN and creatinine are both elevated, and he has been vomiting with difficulty with PO intake.
+uw-test-169 1 3 Management has included Calcitriol, Sevelamer, monitor BMP. 
+uw-test-170 0 -1 NA
+uw-test-171 1 0 Ms. <NAME/> is being managed for anemia, present on admission (POA) and noted on <DATE/> in the Hematology/Oncology note: #anemia - Due to disease and chemotherapy - Transfuse for Hct < 26.
+uw-test-172 1 2 NA
+uw-test-173 0 -1 NA
+uw-test-174 0 -1 NA
+uw-test-175 1 2 and she was transfused 2 units of packed red blood cells.
+uw-test-176 0 -1 NA
+uw-test-177 0 -1 NA
+uw-test-178 0 -1 NA
+uw-test-179 1 0 On admission, her Na= 135 and downtrended to Na=125 on <DATE/>.
+uw-test-180 1 0 NA
+uw-test-181 1 4 On <DATE/> for #AML, transfuse for Hct<25, Plt<50k - Reinitiate prophylaxis with acyclovir and posaconazole on admission, initiate Levofloxacin prophylaxis on discharge.
+uw-test-182 0 -1 NA
+uw-test-183 1 3 His BNP was 417 and management included diuretics and restarting Lisinopril.
+uw-test-184 0 -1 NA
+uw-test-185 1 0 DIAGNOSIS CLARIFICATION: Additional diagnosis of hypokalemia, monitored, evaluated, treated, and resolved in the setting of an admit serum Potassium decreasing from 4.5mEq/l to 3.2mEq/l on <DATE/>.
+uw-test-186 0 -1 NA
+uw-test-187 0 -1 NA
+uw-test-188 1 2 Preop labs demonstrated a K+ of 3.1 and he is being treated w/ IV KCL for continued low K+ of 3.1.
+uw-test-189 0 -1 NA
+uw-test-190 0 -1 NA
+uw-test-191 0 -1 NA
+uw-test-192 0 -1 NA
+uw-test-193 0 -1 NA
+uw-test-194 1 8 Patient does not have a diagnosis of CHRONIC KIDNEY DISEASE.
+uw-test-195 0 -1 NA
+uw-test-196 1 5 Mr. <NAME/> is being managed for malnutrition, present on admission as reflected by unintentional weight loss and low albumin and impacted by his pancreatic duct leak.
+uw-test-197 0 -1 Mental status still markedly abnormal - suspect either toxicity from radiation/IT chemo or tacrolimus toxicity.
+uw-test-198 1 3 Wound cleansed and dressing applied.
+uw-test-199 0 -1 NA
+uw-test-200 0 -1 NA
+uw-test-201 1 5 INR elevated yesterday to 1.5, not started on warfarin as it could further exacerbate the coagulopathy, INR today 1.4.
+uw-test-202 0 -1 NA
+uw-test-203 0 -1 NA
+uw-test-204 0 0 NA
+uw-test-205 0 -1 Mr. <NAME/> was also managed for pulmonary stenosis due to surgery.
+uw-test-206 0 -1 NA
+uw-test-207 0 -1 NA
+uw-test-208 1 4 Patient is MORBIDLY OBESE with BMI > 70.
+uw-test-209 1 3 <DATE/> #LUNG CANCER: Started on Tarceva on the <DATE/> for EGFR positive marker.
+uw-test-210 1 8 # HEME Has thrombocytopenia and anemia, thought to be secondary to recent chemotherapy on <DATE/>, with plt down to 27 on <DATE/>, received 1 pack plt on <DATE/> in anticipation of IR procedure, plt up to 61, now 48 on repeat today, <DATE/>.
+uw-test-211 1 7 NA
+uw-test-212 1 7 Further treatment includes a right heart catheterization to evaluate pulmonary artery pressures and she continues on her home dose of treprostinil and sildenafil.
+uw-test-213 0 -1 NA
+uw-test-214 1 0 Mr. <NAME/> is also being managed for hypomagnesemia. 
+uw-test-215 1 5 Will consult Nutrition for help in optimizing her PO intake. She has been ordered a high-calorie, high-protein diet, daily weights and a nutrition consult.
+uw-test-216 0 -1 NA
+uw-test-217 0 -1 NA
+uw-test-218 0 -1 NA
+uw-test-219 1 10 This patient is being managed for: Sepsis due to pneumonia, meeting 2/4 SIRS criteria, in the setting of neutropenic fever, present on admission (POA)
+uw-test-220 1 5 Management includes consideration of carvedilol and losartan prior to discharge. 
+uw-test-221 1 0 This patient is also being managed for: Protein Calorie Malnutrition, Not Present on Admission (POA)
+uw-test-222 1 3 --- After cardioversion on HD4, SpO2 was 94% at rest on room air but she continued to have exertional desaturation to 85%, most likely due to malignant pleural disease and residual effusion. She received home O2 prescription for 3L with ambulation.
+uw-test-223 0 -1 NA
+uw-test-224 1 5 <DATE/> <TIME/> RN-  He received one five-unit pool of Platelets and post count is pending.
+uw-test-225 0 -1 NA
+uw-test-226 1 2 Surgery documents burning mouth pain - Nystatin swish and spit.
+uw-test-227 0 -1 NA
+uw-test-228 0 -1 NA
+uw-test-229 0 -1 NA 
+uw-test-230 1 2 Mr. <NAME/> was started on Vit K. Warfarin was not given to determine whether the coagulopathy, present on admission, is solely attributable to liver failure or instead to vitamin K deficiency.
+uw-test-231 1 0 NA
+uw-test-232 0 -1 Treatments include: supplemental oxygen, bronchodilators, and corticosteroids.
+uw-test-233 1 3 Treatments include: Intravenous fluids.
+uw-test-234 1 0 she was net positive 2302 milliliters and her serum sodium was 128 mEq/L. Ortho documentation on <DATE/> noted for "Na trending back up, will cont free water restriction."
+uw-test-235 1 2 Patient noted to have no corneal, cough or gag reflexes in the ED.
+uw-test-236 0 -1 Treatment includes: Daily CBC w/diff, continue acyclovir, fluconazole , levofloxacin, transfused for HCT <26%, PLT <10K, start daily G-CSF infusions at Dr. <NAME/>'s office tomorrow <DATE/>.
+uw-test-237 0 -1 NA
+uw-test-238 0 -1 NA
+uw-test-239 0 -1 NA
+uw-test-240 1 3 <DATE/> # Metastatic non-seminomatous germ cell tumor - brain metastases - transfusion thresholds: Hct<26, plt<10 - daily CBC.
+uw-test-241 0 -1 NA
+uw-test-242 0 -1 NA
+uw-test-243 0 -1 NA
+uw-test-244 0 -1 The serosal laceration was a complication of the surgery.
+uw-test-245 1 4 NA
+uw-test-246 1 4 Treatments include: IV NS 140cc/hr, PRN ondansetron, Ativan for nausea, loperimide for diarrhea, and KCl for hypokalemia.
+uw-test-247 0 -1 NA
+uw-test-248 1 3 Treatments include: IV fluids started in ED, followed by daily medication management.
+uw-test-249 1 4 Pt is also noted to have K+ down to 3.5 which was treated with KCl 20mEq PO x 1.
+uw-test-250 1 7 Treatment includes levophed, antibiotics, antiviral therapy, and continued fluid boluses.
+uw-test-251 0 -1 NA
+uw-test-252 0 -1 NA
+uw-test-253 0 -1 NA
+uw-test-254 0 -1 NA
+uw-test-255 1 10 Additional interventions include: high-calorie, high-protein liquid diet.
+uw-test-256 1 5 Other treatments include: Qday Metformin 500mg.
+uw-test-257 1 3 She developed neutropenic fever, and was started on Ceftazidime on <DATE/>, she continues infection prophylaxis with Voriconazole, Amphotericin B.
+uw-test-258 0 -1 Ms. <NAME/> is being managed with micafungin due to chemo in the setting of AML.
+uw-test-259 0 -1 NA
+uw-test-260 0 -1 NA
+uw-test-261 0 -1 NA
+uw-test-262 0 -1 NA
+uw-test-263 0 -1 Management has included GI Consult, PRBC's, and q4h Hct checks.
+uw-test-264 1 16 The patient received additional doses of 20 mg Lasix (furosemide) and continues on supplemental O2.
+uw-test-265 1 0 NA
+uw-test-266 0 -1 NA
+uw-test-267 1 2 Management has included NS bolus and IV antibiotics, with further plans for incision and drainage of the perianal abscess.
+uw-test-268 1 3 Management has included lung transplantation.
+uw-test-269 1 5 He received 80 mg of IV furosemide and continued on carvedilol and lisinopril.
+uw-test-270 1 3 Neutropenic fever - piperacillin-tazobactam dose escalated to 2 grams every 12 hours - Ceftazidime initiated in the ER to continue.
+uw-test-271 1 0 Ms <NAME/> is a <AGE/> y/o lady w/ DM, HTN, and HLD, evaluated at OSH and found to have an enlarging uterine mass, hemoperitoneum, and numerous basilar lung nodules concerning for uterine carcinoma, transferred here for further gyn/onc management.
+uw-test-272 1 2 Patient is also being managed for hyperkalemia.
+uw-test-273 1 6 Hypotension: likely due to poor po intake and nutritional status - Started on intravenous fluids.
+uw-test-274 1 7 #Anemia: Hct 21 on admission; likely 2/2 chemotherapy and multiple myeloma; transfusion threshold Hct <30%.
+uw-test-275 0 -1 NA
+uw-test-276 1 7 Mepilex placed to pre-existing stage 2 ulcer to right buttock.
+uw-test-277 1 0 The I&D and debridement at the bedside in the ED on admission was an excisional debridement.
+uw-test-278 1 3 NA
+uw-test-279 1 3 Ms. <NAME/> is being managed for a stage I buttocks pressure ulcer, present on admission.
+uw-test-280 1 4 On hospital day #3 she had not had any fevers for >24 hours and was converted from Zosyn to PO ciprofloxacin.
+uw-test-281 1 2 Intra-operatively his INR increased to 1.6, platelets and fibrinogen decreased to 135.
+uw-test-282 0 -1 NA
+uw-test-283 1 2 Unclear if pt's psych hx (bipolar type II) is contributing to her clinical picture. -haldol 1-2mg IV q6h PRN agitation- cont with conservative delirium management, including frequent reorientation, maintain sleep-wake cycle, do nightly bed checks every 4 hours, bed by window, etc.
+uw-test-284 1 3 Due to increase in Cr due to CKD stage 3-4, dose was reduced to 2.5 mg BID from 5mg BID.
+uw-test-285 0 -1 NA
+uw-test-286 0 -1 NA
+uw-test-287 1 0 NA
+uw-test-288 0 -1 If this does not help, will need to consider other cardiac causes.
+uw-test-289 1 2 The admission note documents, admitted for failure to thrive, pancytopenia, poor caloric intake and poorly controlled Borrelia burgdorferi despite treatment on the outpatient.
+uw-test-290 1 4 Decubitus ulcer present on buttocks, Stage 2, 1 x 0.2 x 0.1, wound edges: epibole, wound base: epithelialization, slough.
+uw-test-291 0 -1 NA
+uw-test-292 0 -1 NA
+uw-test-293 1 3 Management has included beta-adrenergic blockers and IABP.
+uw-test-294 1 1 H&P documentation noted for "He was immediately taken to <LOCATION/>, <LOCATION/>, where he was given vitamin K, 2 units of FFP and 1 unit of packed red cells for a hematocrit decrease from 41 to 31."
+uw-test-295 1 5 Her piperacillin/tazobactam was switched to meropenem and tobramycin was initiated.
+uw-test-296 1 4 NA
+uw-test-297 0 -1 NA
+uw-test-298 1 4 NA
+uw-test-299 0 -1 NA
+uw-test-300 0 -1 NA
+uw-test-301 1 2 Pt is noted to have elevated INR and is treated with Vitamin K and Fresh Frozen Plasma.
+uw-test-302 0 -1 NA
+uw-test-303 1 3 Treated with Vancomycin 1 gram IV q 12 x 7 days.
+uw-test-304 0 -1 NA
+uw-test-305 1 3 Wound RN notes Wound care is consulted to provide recommendations on sacral/coccyx wounds noted by nursing on <DATE/> <TIME/> documents a Stage II pressure ulcer on L buttock and Stage II pressure ulcer on R buttock. 
+uw-test-306 1 2 <DATE/> TTE notes presence of LVAD and severe left ventricular systolic dysfunction with an ejection fraction of 10-15%.
+uw-test-307 0 -1 Nasojejunal tube placed post ligament of Treitz.
+uw-test-308 0 -1 NA
+uw-test-309 1 3 Postoperative anemia, improved patient received one RBC yesterday for a HCT of 21, recheck 24 then 23 times several checks, JP output continues to be serosang - CBC daily - Monitor drain and wound for evidence of bleeding -Transfuse for HCT less than 21.
+uw-test-310 1 5 Prior cultures grew quinolone sensitive Enterobacter aerogenes - start po levaquin - f/u urine culture.
+uw-test-311 1 4 Given ECG findings of an old MI and the generalized hypokinesis noted on TTE, it was determined that he most likely had a combination of hypertensive and ischemic cardiomyopathy. On admit it is noted, #CHF: mild ECV excess on exam, oxygenating well on RA, CXR clear. Pt is being treated with carvedilol, lisinopril and simvastatin.
+uw-test-312 0 -1 NA
+uw-test-313 0 -1 NA
+uw-test-314 1 5 His transfusion threshold is plt < 10K, Hct < 25. 
+uw-test-315 1 10 Recommend coverage of vancomycin/cefepime with azithromycin and oseltamivir but ultimately may need meningitic coverage/dosing given acute mental status change.
+uw-test-316 1 7 #ID -- Started on Augmentin 875 BID PO x10 days for skin infection over port site.
+uw-test-317 0 -1 NA
+uw-test-318 1 2 Zosyn started on <DATE/> for GNRs.
+uw-test-319 1 0 Nursing applying clotrimazole cream to scrotal area. 
+uw-test-320 1 3 Management has included continuation of O2 and consideration for lung volume reduction surgery.
+uw-test-321 0 -1 NA
+uw-test-322 1 7 NA
+uw-test-323 0 -1 NA
+uw-test-324 0 -1 NA
+uw-test-325 0 -1 NA
+uw-test-326 1 7 Discharge Summary notes AKI likely secondary to sepsis, hypoxemic respiratory failure secondary to sepsis and/or pulmonary mucormycosis.
+uw-test-327 1 5 Patient is being managed for acute kidney injury.

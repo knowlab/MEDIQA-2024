@@ -1,0 +1,7 @@
+ms-test-0 1 10 Patient's symptoms are suspected to be due to leptospirosis.
+ms-test-1 0 -1 NA
+ms-test-2 1 9 Streptococcus pyogenes is the causative agent of the patient's condition.
+ms-test-3 1 8 Group A beta-hemolytic Streptococcus is suspected to be the causative agent due to the presence of painful right infraclavicular lymphadenopathy.
+ms-test-4 1 3 The causative agent is a yeast-like fungus, which may be Candida, commonly found in such skin infections.
+ms-test-5 0 -1 NA
+ms-test-6 1 9 Parainfluenza virus is the causal pathogen of the patient's condition.
