@@ -139,11 +139,11 @@ if __name__ == "__main__":
             \nError Sentence ID:<number>
             \n Corrected Sentence:<text>
             '''
-            q=icl_examples+output_template
+            q="".join([icl_examples, output_template])
+            #q=icl_examples+output_template
             response=get_response(q)
             print(response)
             answers[val_text_id][run]=response
             with open(output_file_loc, "w") as f:
                 json.dump(answers,f)
-            break
-        break
+    
