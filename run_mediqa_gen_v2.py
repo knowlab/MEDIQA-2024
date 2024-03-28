@@ -5,6 +5,13 @@ import pandas as pd
 import numpy as np
 import argparse
 from utils import ChatClient, RetrievalAugmentedPrompt
+"""Retrieval Augmented Generation with ChatGPT:
+This is our System 2. Here we provide the ChatClient (i.e. GPT4/GPT3.5) with in-context examples and reasons for thier correctness or incorrectness.
+Reasons are collected by pormpting GPT4 using Training data. The in-context learning examples are chosen by comparing similarity 
+between train and test/vlaidation datasets.
+Additionally, our Chain of Thought (COT) prompting technique involves sampling the examples three times to generate three distinct outputs. 
+These are subsequently aggregated through majority voting for Taks 1 and Task 2 in the post-processing phase.
+"""
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -40,10 +47,8 @@ if __name__ == "__main__":
             sentences=row['Sentences']
             q=rag.create_prompt_for_rag(val_text_id, sentences, neg=False)
             print(q)
-            input("Enter::")
             response=chat_client.get_response(q, neg=False)
             print(response)
             answers[val_text_id][run]=response
             with open(output_file_loc, "w") as f:
                 json.dump(answers,f)
-        break
