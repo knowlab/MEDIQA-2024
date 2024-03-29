@@ -102,14 +102,13 @@ if __name__ == "__main__":
                     number_of_corrections_needed+=1
                     #matching_rows = test_df[test_df['Text ID'] == text_id]
                     sentences = test_df.loc[test_df['Text ID'] == text_id, 'Sentences'].iloc[0]
-                    print(sentences)
+                    #print(sentences)
                     q=rag.create_prompt(text_id, sentences, system1_error_sentence, neg=True)
-                    print(q)
+                    #print(q)
                     response=chat_client.get_response(q, neg=True)
                     print(response)
                     matches4=re.findall(pattern3, response)
                     result["Corrected Sentence"]=matches4[0]
-                    input("Enter::")
             except:
                 continue
 

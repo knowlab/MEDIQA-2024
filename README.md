@@ -3,10 +3,10 @@
 Welcome to the KnowLab submission repository for MEDIQA-2024. We share our approach for addressing the MEDIQA-CORR Shared Tasks (1, 2, and 3) leveraging the capabilities of GPT-4 combined with the Retrieval Augmented Generation (RAG) technique. Here's how we've structured our solution:
 
 ## Methodology Overview
-We have develeped two systems which we term the first system and second system. The first system is in: 
+We have develeped two systems which we term the first system and the second system. The first system is in: 
 https://github.com/wuzl01/Knowlab_MEDIQA-CORR-2024
 
-Our submission is a rule based ensemble by using the two systems. To run the ensemble system please use the ```ensemble.sh``` script. It's decription can be found at the end of this page. 
+Our final submission is a rule based ensemble by using the two systems. To run the ensemble system please use the ```ensemble.sh``` script. It's decription can be found at the end of this page. 
 
 In this repository we have the second system which has shown to be effective in the generation task. We describe the second system briefly here. 
 
