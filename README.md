@@ -3,8 +3,14 @@
 Welcome to the KnowLab submission repository for MEDIQA-2024. We share our approach for addressing the MEDIQA-CORR Shared Tasks (1, 2, and 3) leveraging the capabilities of GPT-4 combined with the Retrieval Augmented Generation (RAG) technique. Here's how we've structured our solution:
 
 ## Methodology Overview
+We have develeped two systems which we term the first system and second system. The first system is in: 
+https://github.com/wuzl01/Knowlab_MEDIQA-CORR-2024
 
-The core of our method begins with leveraging GPT-4 to synthesize "Reasons" from the provided training dataset. We then use RAG for  train data selection process using OpenAI's embedding.
+Our submission is a rule based ensemble by using the two systems. To run the ensemble system please use the ```ensemble.sh``` script. It's decription can be found at the end of this page. 
+
+In this repository we have the second system which has shown to be effective in the generation task. We describe the second system briefly here. 
+
+The core of our method begins with leveraging GPT-4 to synthesize "Reasons" from the provided training dataset. We then use RAG for  train data selection process using OpenAI's embedding. 
 
 When it comes to testing and validation, we diverge slightly from the initial process. Specifically, "Reasons" are not added to the test examples, ensuring that the model's responses are generated based purely on its understanding and reasoning capabilities. This unified approach allows for simultaneous output generation across all tasks, streamlining the evaluation process. Our system ensembled with simple prompting technique improves on the NLG scores.
 
@@ -39,7 +45,7 @@ Please provide the following arguments:
 - `--api_key` is where you'll input your OpenAI API key.
 - `--similarity_file_loc` points to the location and name of the Similarity file, which should be placed in the data folder.
 - `--reason_file_loc` indicates the location and name of the Reason file, also to be placed in the data folder.
-- `--system1_loc`  Run file from the simple prompting system that handles Task 1 and Task 2.
-- `-system2_loc` Run file from the RAG system that handles Text generation. 
+- `--system1_loc`  Run file from system 1 that handles Task 1 and Task 2.
+- `-system2_loc` Run file from the system 2 that handles Text generation. 
 - `pass_number` 0 for ensembling. We do not sample examples for ensembling. 
 - `output_file_loc` designates the location and name for the output file.
