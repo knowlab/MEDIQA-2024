@@ -6,7 +6,7 @@ Welcome to the KnowLab submission repository for MEDIQA-2024. We share our appro
 We have develeped two systems which we term the first system and the second system. The first system is in: 
 https://github.com/wuzl01/Knowlab_MEDIQA-CORR-2024
 
-Our final submission is a rule based ensemble by using the two systems. To run the ensemble system please use the ```ensemble.sh``` script. It's decription can be found at the end of this page. 
+Our final submission is a rule based ensemble by using the two systems. To run the ensemble system please use the ```ensemble-u.sh``` script. It's decription can be found at the end of this page. 
 
 In this repository we have the second system which has shown to be effective in the generation task. We describe the second system briefly here. 
 
