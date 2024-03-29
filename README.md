@@ -46,6 +46,6 @@ Please provide the following arguments:
 - `--similarity_file_loc` points to the location and name of the Similarity file, which should be placed in the data folder.
 - `--reason_file_loc` indicates the location and name of the Reason file, also to be placed in the data folder.
 - `--system1_loc`  Run file from system 1 that handles Task 1 and Task 2.
-- `-system2_loc` Run file from the system 2 that handles Text generation. 
-- `pass_number` 0 for ensembling. We do not sample examples for ensembling. 
-- `output_file_loc` designates the location and name for the output file.
+- `--system2_loc` Run file from the system 2 that handles Text generation. 
+- `--pass_number` 0 for ensembling. We do not sample examples for ensembling. 
+- `--output_file_loc` designates the location and name for the output file.
