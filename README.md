@@ -8,11 +8,7 @@ https://github.com/wuzl01/Knowlab_MEDIQA-CORR-2024
 
 Our final submission is a rule based ensemble by using the two systems. To run the ensemble system please use the ```ensemble-u.sh``` script. It's decription can be found at the end of this page. 
 
-In this repository we have the second system which has shown to be effective in the generation task. We describe the second system briefly here. 
-
-The core of our method begins with leveraging GPT-4 to synthesize "Reasons" from the provided training dataset. We then use RAG for  train data selection process using OpenAI's embedding. 
-
-When it comes to testing and validation, we diverge slightly from the initial process. Specifically, "Reasons" are not added to the test examples, ensuring that the model's responses are generated based purely on its understanding and reasoning capabilities. This unified approach allows for simultaneous output generation across all tasks, streamlining the evaluation process. Our system ensembled with simple prompting technique improves on the NLG scores.
+In this repository we have the second system which has shown to be effective in the generation task. 
 
 ## Data Requirements
 
